@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaTube:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaTube_jar</output-path>
+    <root id="archive" name="JavaTube.jar">
+      <element id="module-output" name="JavaTube" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Http/out/artifacts/Http_jar/Http.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/org.json.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tokenize/out/artifacts/Tokenize_jar/Tokenize.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
